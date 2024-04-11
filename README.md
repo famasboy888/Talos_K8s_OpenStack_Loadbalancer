@@ -13,3 +13,7 @@ I deployed a Talos Kubernetes cluster (2 control plane nodes, 3 worker nodes) on
 # My OpenStack Setup
 
 ## Talos terminal and my OpenStack Dashboard
+It took a looooong time to boot up a single Talos Instance.
+- 2 Control Plane Nodes
+- 3 Worker Nodes
+- 1 Remote Instance
