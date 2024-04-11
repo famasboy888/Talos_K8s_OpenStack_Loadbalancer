@@ -1,1 +1,1 @@
-# Talos_K8s_OpenStack_Loadbalancer
+# Talos-K8s on OpenStack with Octavia Loadbalancer
