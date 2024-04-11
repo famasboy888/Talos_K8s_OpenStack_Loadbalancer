@@ -18,8 +18,12 @@ It took a looooong time to boot up a single Talos Instance.
 - 3 Worker Nodes
 - 1 Remote Instance
 
-<p align="center">
-  <img width="80%" height="80%" src="https://github.com/famasboy888/Talos_K8s_OpenStack_Loadbalancer/assets/23441168/21fa47ed-0078-4993-bb77-05d795fcc704">
+<p align="left">
+  <img width="80%" height="80%" src="https://github.com/famasboy888/Talos_K8s_OpenStack_Loadbalancer/assets/23441168/4b23b667-0db4-4b2a-890b-72283896ff15">
+</p>
+
+<p align="left">
+  <img width="80%" height="80%" src="https://github.com/famasboy888/Talos_K8s_OpenStack_Loadbalancer/assets/23441168/ec34229e-8c9d-41ef-9aa2-3afe80741227">
 </p>
 
 ## My Octavia Load Balancer using `ROUND ROBIN` algorithm
