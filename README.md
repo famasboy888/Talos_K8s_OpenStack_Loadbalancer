@@ -39,3 +39,8 @@ Well, we are just testing to see if the Load Balancing is working. So, to see lo
 Of course, in the real world scenario we won't be changing the contents. Each pod should be identical to each other. Otherwise, they would say our web app is odd.
 
 Yes, I'm pressing `F5` really fast coz I didn't have a script to auto refresh the browser.
+
+<p align="left">
+  <img width="80%" height="80%" src="https://github.com/famasboy888/Talos_K8s_OpenStack_Loadbalancer/assets/23441168/1d9ea4a5-efcf-4a24-bb19-c89fa9b845da">
+</p>
+
