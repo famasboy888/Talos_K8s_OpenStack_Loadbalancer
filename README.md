@@ -14,14 +14,13 @@ I deployed a Talos Kubernetes cluster (2 control plane nodes, 3 worker nodes) on
 
 ## Talos terminal and my OpenStack Dashboard
 It took a looooong time to boot up a single Talos Instance.
-- 2 Control Plane Nodes
-- 3 Worker Nodes
-- 1 Remote Instance
-
 <p align="left">
   <img width="80%" height="80%" src="https://github.com/famasboy888/Talos_K8s_OpenStack_Loadbalancer/assets/23441168/4b23b667-0db4-4b2a-890b-72283896ff15">
 </p>
 
+- 2 Control Plane Nodes
+- 3 Worker Nodes
+- 1 Remote Instance
 <p align="left">
   <img width="80%" height="80%" src="https://github.com/famasboy888/Talos_K8s_OpenStack_Loadbalancer/assets/23441168/ec34229e-8c9d-41ef-9aa2-3afe80741227">
 </p>
