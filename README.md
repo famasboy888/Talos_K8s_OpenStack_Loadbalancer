@@ -13,7 +13,7 @@ I deployed a Talos Kubernetes cluster (2 control plane nodes, 3 worker nodes) on
 # My OpenStack Setup
 
 ## Talos terminal and my OpenStack Dashboard
-It took a looooong time to boot up a single Talos Instance.
+It took a looooong time to boot up a single Talos Instance. But once it was running, everything was smooth. It can even handle heavy workloads.
 <p align="left">
   <img width="80%" height="80%" src="https://github.com/famasboy888/Talos_K8s_OpenStack_Loadbalancer/assets/23441168/4b23b667-0db4-4b2a-890b-72283896ff15">
 </p>
