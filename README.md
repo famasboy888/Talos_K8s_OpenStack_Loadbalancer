@@ -29,7 +29,7 @@ It took a looooong time to boot up a single Talos Instance.
 </p>
 
 ## See Load Balancing in action with a simple NGINX
-You are probably wondering: Why the contents of the page changing and what is going on?
+You are probably wondering: Why the contents of the page are changing and what is going on?
 
 Well, we are just testing to see if the Load Balancing is working. So, to see load balancing in action, I changed each content to say which worker node it is from.
 
