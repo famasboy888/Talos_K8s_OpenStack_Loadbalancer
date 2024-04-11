@@ -30,6 +30,9 @@ It took a looooong time to boot up a single Talos Instance.
 
 ## See Load Balancing in action with a simple NGINX
 You are probably wondering: Why the contents of the page changing and what is going on?
+
 Well, we are just testing to see if the Load Balancing is working. So, to see load balancing in action, I changed each content to say which worker node it is from.
+
 Of course, in the real world scenario we won't be changing the contents. Each pod should be identical to each other. Otherwise, they would say our web app is odd.
+
 Yes, I'm pressing `F5` really fast coz I didn't have a script to auto refresh the browser.
