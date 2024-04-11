@@ -27,7 +27,7 @@ It took a looooong time to boot up a single Talos Instance.
 
 ## My Octavia Load Balancer using `ROUND ROBIN` algorithm
 
-<p align="center">
+<p align="left">
   <img width="80%" height="80%" src="https://github.com/famasboy888/Talos_K8s_OpenStack_Loadbalancer/assets/23441168/bb73cc2b-c726-4edd-9f68-6abe5a351aec">
 </p>
 
